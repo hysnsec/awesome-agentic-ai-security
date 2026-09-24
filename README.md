@@ -1,44 +1,54 @@
-# Awesome Agentic AI Security - README Draft
+# Awesome Agentic AI Security
 
-[![Awesome](https://camo.githubusercontent.com/2727609d8bfde9ba1a95be1449eb878bfafa4d76789ba05661857e2c8ac70fa1/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](./LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](https://github.com/hysnsec/awesome-agentic-ai-security/blob/main/LICENSE)
 
-> A curated map of security risks, controls, tools, and research for agentic, multi-agent, tool-using, memory-bearing, and cyber-capable AI systems.
+> A curated list of security resources for agentic, multi-agent, tool-using, and memory-bearing AI systems.
 
-The security boundary has moved from the model to the agentic execution system.
-
-## Start Here
-
-| Resource | Use it for |
-|---|---|
-| [Landscape Map](#landscape-map) | System-level map of prompts, context, tools, credentials, memory, approvals, and downstream action |
-| [Threat Model](#threat-model) | Failure modes, preconditions, impact paths, and control questions for agentic systems |
-| [Attack Surfaces](#attack-surfaces) | Where language, context, authority, state, tools, memory, and policies expose risk |
-| [Agentic Attack Chains](#agentic-attack-chains) | How local weaknesses compose into breach paths and where defenders can interrupt them |
-| [Defense Architecture](#defense-architecture) | Runtime control model for observing, constraining, auditing, and governing agentic systems |
+The list links to public standards, courses, certifications, reading, tools, and benchmarks. Course labs and unpublished methods stay in the course.
 
 ## Contents
 
-- [Certifications](#certifications)
+- [Courses and Certifications](#courses-and-certifications)
+- [Fundamentals](#fundamentals)
+- [Reading](#reading)
+- [Tools](#tools)
+- [Benchmarks](#benchmarks)
+- [Related lists](#related-lists)
 - [Contributing](#contributing)
 - [License](#license)
 
----
+## Courses and Certifications
 
-## Certifications
+Public courses and certifications, free or paid, for security of AI systems, MCP, or agentic systems.
 
-- [Certified Agentic AI Security Expert (CAASE)](https://www.practical-devsecops.com/certified-agentic-ai-security-expert/) — Professional certification for agentic AI security expertise by Practical DevSecOps.
+- [Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/) — Hands-on certification for defending AI and LLM systems, from Practical DevSecOps.
+- [Certified MCP Security Expert (CMCPSE)](https://www.practical-devsecops.com/certified-mcp-security-expert/) — Hands-on certification for securing the Model Context Protocol, from Practical DevSecOps.
+- [Certified Agentic AI Security Expert (CAASE)](https://www.practical-devsecops.com/certified-agentic-ai-security-expert/) — Hands-on certification for securing AI agents, from Practical DevSecOps.
 
----
+## Fundamentals
 
-## Related Projects
+Published standards and frameworks that name risks or controls for agentic or LLM systems.
 
+## Reading
 
----
+Public papers, posts, and talks.
+
+## Tools
+
+Public products for guarding, sandboxing, scanning, or evaluating agentic systems. Name and purpose only.
+
+## Benchmarks
+
+Public eval suites for agent security behavior.
+
+## Related lists
+
+Other awesome lists in threat modeling, agent harnesses, or LLM security.
 
 ## Contributing
 
-
+A link is a public URL plus one sentence. Course labs, exercise paths, and unpublished methods stay out. New links wait until maintainers open that section.
 
 ## License
 
-This project is released under the [Apache License 2.0](LICENSE).
+This project is released under the [Apache License 2.0](https://github.com/hysnsec/awesome-agentic-ai-security/blob/main/LICENSE).
